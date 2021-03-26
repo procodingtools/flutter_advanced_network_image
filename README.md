@@ -1,4 +1,6 @@
 # Flutter Advanced Network Image Provider
+# This is just a cloned version of "discontinued" original version
+# Updated with latest dependencies
 
 [![Pub Package](https://img.shields.io/pub/v/flutter_advanced_networkimage.svg)](https://pub.dev/packages/flutter_advanced_networkimage)
 [![Pre Pub Package](https://img.shields.io/pub/vpre/flutter_advanced_networkimage.svg)](https://pub.dev/packages/flutter_advanced_networkimage)
