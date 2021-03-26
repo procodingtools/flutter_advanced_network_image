@@ -1,5 +1,5 @@
-# Flutter Advanced Network Image Provider
-# This is just a cloned version of "discontinued" original version
+# Flutter Advanced Network ImageProvider
+# This is just a cloned version of the "discontinued" original version
 # Updated with latest dependencies
 
 [![Pub Package](https://img.shields.io/pub/v/flutter_advanced_networkimage.svg)](https://pub.dev/packages/flutter_advanced_networkimage)
@@ -18,7 +18,8 @@ Add this to your pubspec.yaml (or create it):
 
 ```yaml
 dependencies:
-  flutter_advanced_networkimage: any
+  flutter_advanced_networkimage:
+    git: https://github.com/procodingtools/flutter_advanced_network_image.git
 ```
 
 Then run the flutter tooling:
