@@ -6,10 +6,10 @@ homepage: https://github.com/mchome/flutter_advanced_networkimage
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.1
-  path_provider: ^2.0.1
-  path: ^1.8.0
-  flutter_svg: ^0.19.3
+  http: any
+  path_provider: any
+  path: any
+  flutter_svg: any
 
 dev_dependencies:
   flutter_test:
